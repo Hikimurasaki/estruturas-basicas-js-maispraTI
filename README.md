@@ -32,7 +32,7 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ```
 2. Acesse a pasta do projeto:
 
-`cd nome-do-repositorio`
+```cd nome-do-repositorio```
 
 3. Instale o pacote prompt-sync:
 
