@@ -30,18 +30,26 @@ Antes de executar os exercícios, é necessário ter instalado:
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ```
-2. Acesse a pasta do projeto:
+2. **Acesse a pasta do projeto:**
 
-```cd nome-do-repositorio```
+```bash
+cd nome-do-repositorio
+```
 
-3. Instale o pacote prompt-sync:
+3. **Instale o pacote prompt-sync:**
 
-`npm install prompt-sync`
+```bash
+npm install prompt-sync
+```
 
-4. Execute o exercício desejado com Node.js:
+4. **Execute o exercício desejado com Node.js:**
 
-`node nome-do-exercicio.js`
+```bash
+node nome-do-exercicio.js
+```
 
 Por exemplo:
 
-`node exercicio05.js`
+```bash
+node exercicio05.js
+```
