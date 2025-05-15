@@ -28,12 +28,12 @@ Antes de executar os exercícios, é necessário ter instalado:
 1. **Clone este repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Hikimurasaki/estruturas-basicas-js-maispraTI.git
 ```
 2. **Acesse a pasta do projeto:**
 
 ```bash
-cd nome-do-repositorio
+cd estruturas-basicas-js-maispraTI
 ```
 
 3. **Instale o pacote prompt-sync:**
@@ -46,10 +46,4 @@ npm install prompt-sync
 
 ```bash
 node nome-do-exercicio.js
-```
-
-Por exemplo:
-
-```bash
-node exercicio05.js
 ```
